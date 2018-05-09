@@ -1,0 +1,6 @@
+{
+  "appId": "com.roma.capacitorBrowserExample",
+  "appName": "capacitorBrowserExample",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
